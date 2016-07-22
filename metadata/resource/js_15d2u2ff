@@ -9,7 +9,7 @@
         "bootstrap": true,
         "defer": false,
         "designer|userClassName": "js_15d2u2ff",
-        "url": "../LibJS/crud_lib.js",
+        "url": "LibJS/crud_lib.js",
         "x-compile": true
     },
     "name": "js",

@@ -1,5 +1,5 @@
 $app-name:  dynamic( 'MyApp' );
-$image-search-path: 'C:/wamp/www/Agrimanager3.1/build/development/MyApp/resources';
+$image-search-path: 'C:/wamp/www/Agrimanager3.2/build/development/MyApp/resources';
 $theme-name:  dynamic( 'theme-crisp-touch-9d111c79-958d-429a-b7a2-377ee1fd3e6b' );
 $include-ext-abstractcomponent: dynamic(true);;
 $include-ext-abstractcontainer: dynamic(true);;

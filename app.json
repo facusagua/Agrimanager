@@ -2,7 +2,7 @@
    "name": "MyApp",
    "version": "1.0.0.0",
    "indexHtmlPath": "index.html",
-   "classpath": "${app.dir}/app,${app.dir}/../LibJS/",
+   "classpath": "${app.dir}/app,${app.dir}/LibJS/,${app.dir}/../LibJS/",
    "overrides": [
       "overrides"
    ],
@@ -35,7 +35,7 @@
          "path": "${framework.dir}/build/ext-all-rtl-debug.js"
       },
       {
-         "path": "../LibJS/crud_lib.js",
+         "path": "LibJS/crud_lib.js",
          "bootstrap": true,
          "x-compile": true
       },
@@ -44,7 +44,7 @@
          "x-compile": true
       },
       {
-         "path": "../LibJS/sinc_lib.js",
+         "path": "LibJS/sinc_lib.js",
          "x-compile": true
       },
       {
